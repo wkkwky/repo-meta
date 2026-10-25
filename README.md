@@ -35,7 +35,7 @@
 然后二选一：
 
 - **GitHub 源**：[点这里安装](https://github.com/wkkwky/repo-meta/raw/main/github-gitee-repo-meta.user.js)，管理器会弹出安装确认页
-- **Greasyfork**：发布之后再来补链接
+- **Greasyfork**：[点这里安装](https://greasyfork.org/zh-CN/scripts/602157)
 
 管理器不认的话手动装：面板 → 添加新脚本 → 清空编辑器 → 把 `github-gitee-repo-meta.user.js` 全文粘进去 → 保存。
 
